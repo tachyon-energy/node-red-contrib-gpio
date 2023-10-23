@@ -26,7 +26,8 @@
     "beaglebone",
     "bluetooth",
     "ble",
-    "ble-io"
+    "ble-io",
+    "tachyon-energy"
   ],
   "author": "Luis Montes, Holger Reichert",
   "license": "MIT",
@@ -42,7 +43,8 @@
     "mqtt-serial": "^0.6.0",
     "serialport": "^8.0.5",
     "socket.io-serial": "^0.4.0",
-    "udp-serial": "^0.2.0"
+    "udp-serial": "^0.2.0",
+    "@te-master/te-io": "^1.0.0"
   },
   "node-red": {
     "nodes": {
